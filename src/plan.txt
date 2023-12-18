@@ -1,0 +1,6 @@
+tree 
+- constructor with array provided
+- call on the create tree method with array with start and end calculated
+    in the constructor
+- balance the tree
+- sort the array
